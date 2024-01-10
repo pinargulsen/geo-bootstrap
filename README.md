@@ -1,7 +1,5 @@
 # Geo
-
 **Geo** is a timeless [Twitter Bootstrap](http://twitter.github.com/bootstrap) theme built for the modern web.
-
 ## Usage
 
 Download `bootstrap.css` or `bootstrap.min.css` from `/swatch`. Replace the default Bootstrap stylesheet with one of these files.
